@@ -5,6 +5,8 @@ class Program
     {
         Console.WriteLine("Hello, World!");
         //eğitime başlayacağım
+        //selam dostlar
+        Console.WriteLine("Merhaba arkadaşlar");
     }
 }
 
