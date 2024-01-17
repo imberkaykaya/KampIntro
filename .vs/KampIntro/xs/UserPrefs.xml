@@ -1,6 +1,7 @@
-﻿<Properties StartupConfiguration="{885F9D06-73FA-42DF-A567-F5844E3F344B}|Default" GitUserInfo="UsingGIT">
+﻿<Properties StartupConfiguration="{D0285098-E38D-485A-B368-90F21E4CF833}|Default" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.ItemProperties.Donguler PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.ClassIntro FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ClassIntro PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.HW26 FirstBuild="True" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.KampIntro PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
