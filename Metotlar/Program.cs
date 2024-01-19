@@ -31,6 +31,7 @@ class Program
         urun4.Id = 4;
         urun4.UrunAdi = "Elma";
         urun4.Fiyat = 17;
+        urun4.Aciklama = "Amasyanın mis elması";
 
         Urun[] urunler = new Urun[] { urun1, urun2, urun3, urun4};
 
