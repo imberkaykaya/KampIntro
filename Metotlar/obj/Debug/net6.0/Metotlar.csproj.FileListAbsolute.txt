@@ -1,0 +1,15 @@
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/Metotlar/bin/Debug/net6.0/Metotlar
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/Metotlar/bin/Debug/net6.0/Metotlar.deps.json
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/Metotlar/bin/Debug/net6.0/Metotlar.runtimeconfig.json
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/Metotlar/bin/Debug/net6.0/Metotlar.dll
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/Metotlar/bin/Debug/net6.0/Metotlar.pdb
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/Metotlar/obj/Debug/net6.0/Metotlar.csproj.AssemblyReference.cache
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/Metotlar/obj/Debug/net6.0/Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/Metotlar/obj/Debug/net6.0/Metotlar.AssemblyInfoInputs.cache
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/Metotlar/obj/Debug/net6.0/Metotlar.AssemblyInfo.cs
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/Metotlar/obj/Debug/net6.0/Metotlar.csproj.CoreCompileInputs.cache
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/Metotlar/obj/Debug/net6.0/Metotlar.dll
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/Metotlar/obj/Debug/net6.0/refint/Metotlar.dll
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/Metotlar/obj/Debug/net6.0/Metotlar.pdb
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/Metotlar/obj/Debug/net6.0/Metotlar.genruntimeconfig.cache
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/Metotlar/obj/Debug/net6.0/ref/Metotlar.dll
