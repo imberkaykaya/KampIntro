@@ -27,7 +27,12 @@ class Program
         urun3.Fiyat = 150;
         urun3.Aciklama = "Erbaa Yaprağı ";
 
-        Urun[] urunler = new Urun[] { urun1, urun2, urun3};
+        Urun urun4 = new Urun();
+        urun4.Id = 4;
+        urun4.UrunAdi = "Elma";
+        urun4.Fiyat = 17;
+
+        Urun[] urunler = new Urun[] { urun1, urun2, urun3, urun4};
 
         foreach (Urun  urun in urunler)
         {
