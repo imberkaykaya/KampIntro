@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW26", "HW26\HW26.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{5452224C-7849-4175-AF72-4B759FED71AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{878727DA-7E56-44CB-A604-BD3FD56F9B6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{ED623901-FCCA-4366-BA57-CB893862089E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{5452224C-7849-4175-AF72-4B759FED71AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5452224C-7849-4175-AF72-4B759FED71AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5452224C-7849-4175-AF72-4B759FED71AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{878727DA-7E56-44CB-A604-BD3FD56F9B6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{878727DA-7E56-44CB-A604-BD3FD56F9B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{878727DA-7E56-44CB-A604-BD3FD56F9B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{878727DA-7E56-44CB-A604-BD3FD56F9B6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED623901-FCCA-4366-BA57-CB893862089E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED623901-FCCA-4366-BA57-CB893862089E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED623901-FCCA-4366-BA57-CB893862089E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED623901-FCCA-4366-BA57-CB893862089E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

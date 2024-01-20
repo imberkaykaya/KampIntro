@@ -1,0 +1,15 @@
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/Matematik/bin/Debug/net6.0/Matematik
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/Matematik/bin/Debug/net6.0/Matematik.deps.json
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/Matematik/bin/Debug/net6.0/Matematik.runtimeconfig.json
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/Matematik/bin/Debug/net6.0/Matematik.dll
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/Matematik/bin/Debug/net6.0/Matematik.pdb
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/Matematik/obj/Debug/net6.0/Matematik.csproj.AssemblyReference.cache
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/Matematik/obj/Debug/net6.0/Matematik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/Matematik/obj/Debug/net6.0/Matematik.AssemblyInfoInputs.cache
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/Matematik/obj/Debug/net6.0/Matematik.AssemblyInfo.cs
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/Matematik/obj/Debug/net6.0/Matematik.csproj.CoreCompileInputs.cache
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/Matematik/obj/Debug/net6.0/Matematik.dll
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/Matematik/obj/Debug/net6.0/refint/Matematik.dll
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/Matematik/obj/Debug/net6.0/Matematik.pdb
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/Matematik/obj/Debug/net6.0/Matematik.genruntimeconfig.cache
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/Matematik/obj/Debug/net6.0/ref/Matematik.dll

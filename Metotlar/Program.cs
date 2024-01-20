@@ -14,6 +14,7 @@ class Program
         urun1.UrunAdi = "Karpuz";
         urun1.Fiyat = 5;
         urun1.Aciklama = "Diyarbakır Karpuzu";
+        urun1.StokAdedi = 33;
 
         Urun urun2 = new Urun();
         urun2.Id = 2;
@@ -24,7 +25,7 @@ class Program
         Urun urun3 = new Urun();
         urun3.Id = 3;
         urun3.UrunAdi = "Yaprak";
-        urun3.Fiyat = 150;
+        urun3.Fiyat = 150; 
         urun3.Aciklama = "Erbaa Yaprağı ";
 
         Urun urun4 = new Urun();
@@ -47,5 +48,18 @@ class Program
             Console.WriteLine(urun.Fiyat);
             Console.WriteLine("--------");
         }
+        Console.WriteLine("---------Metotlar-------");
+        //Instance - Örnek
+        //Encapsulation - Kapsülleme
+
+
+        SepetManager sepetmanager = new SepetManager();
+        sepetmanager.Ekle(urun1);
+        sepetmanager.Ekle(urun2);
+        sepetmanager.Ekle(urun3);
+
+        sepetmanager.Ekle2("Armut", "Yeşil Armut", 12, 10);
+        sepetmanager.Ekle2("Elma", "Yeşil Elma", 15, 7);
+        sepetmanager.Ekle2("Karpuz", "Yeşil Karpuz", 18, 22);
     }
 }
