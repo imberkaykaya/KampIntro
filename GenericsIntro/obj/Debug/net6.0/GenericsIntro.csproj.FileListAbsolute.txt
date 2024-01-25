@@ -1,0 +1,15 @@
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/GenericsIntro/bin/Debug/net6.0/GenericsIntro
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/GenericsIntro/bin/Debug/net6.0/GenericsIntro.deps.json
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/GenericsIntro/bin/Debug/net6.0/GenericsIntro.runtimeconfig.json
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/GenericsIntro/bin/Debug/net6.0/GenericsIntro.dll
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/GenericsIntro/bin/Debug/net6.0/GenericsIntro.pdb
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/GenericsIntro/obj/Debug/net6.0/GenericsIntro.csproj.AssemblyReference.cache
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/GenericsIntro/obj/Debug/net6.0/GenericsIntro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/GenericsIntro/obj/Debug/net6.0/GenericsIntro.AssemblyInfoInputs.cache
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/GenericsIntro/obj/Debug/net6.0/GenericsIntro.AssemblyInfo.cs
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/GenericsIntro/obj/Debug/net6.0/GenericsIntro.csproj.CoreCompileInputs.cache
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/GenericsIntro/obj/Debug/net6.0/GenericsIntro.dll
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/GenericsIntro/obj/Debug/net6.0/refint/GenericsIntro.dll
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/GenericsIntro/obj/Debug/net6.0/GenericsIntro.pdb
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/GenericsIntro/obj/Debug/net6.0/GenericsIntro.genruntimeconfig.cache
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/GenericsIntro/obj/Debug/net6.0/ref/GenericsIntro.dll
