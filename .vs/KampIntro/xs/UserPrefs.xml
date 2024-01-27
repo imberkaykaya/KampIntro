@@ -1,32 +1,33 @@
-﻿<Properties StartupConfiguration="{CD007441-F5E9-48C6-AEA8-848450D90572}|Default" GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.ItemProperties.KampIntro PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Koleksiyonlar PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Metotlar PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Matematik PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.HW26 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ClassIntro PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.DegerVeReferansTipler FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.OOP1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+﻿<Properties StartupConfiguration="{E386880A-B738-419F-84EE-68566A4CF32C}|Default" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.ItemProperties.GenericsIntro FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Matematik PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DegerVeReferansTipler FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Donguler PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Koleksiyonlar/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.KampIntro PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Metotlar PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.HW26 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.HW45 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.OOP1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Koleksiyonlar PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.GenericsIntro PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GenericsIntro/Program.cs">
     <Files>
-      <File FileName="Koleksiyonlar/Program.cs" Line="1" Column="1" />
+      <File FileName="GenericsIntro/MyList.cs" Line="30" Column="4" />
+      <File FileName="GenericsIntro/Program.cs" Line="13" Column="43" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="KampIntro" expanded="True">
-            <Node name="Koleksiyonlar">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="GenericsIntro" expanded="True" />
+            <Node name="Koleksiyonlar" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ClassIntro PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

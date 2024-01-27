@@ -1,0 +1,15 @@
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/HW45/bin/Debug/net6.0/HW45
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/HW45/bin/Debug/net6.0/HW45.deps.json
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/HW45/bin/Debug/net6.0/HW45.runtimeconfig.json
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/HW45/bin/Debug/net6.0/HW45.dll
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/HW45/bin/Debug/net6.0/HW45.pdb
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/HW45/obj/Debug/net6.0/HW45.csproj.AssemblyReference.cache
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/HW45/obj/Debug/net6.0/HW45.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/HW45/obj/Debug/net6.0/HW45.AssemblyInfoInputs.cache
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/HW45/obj/Debug/net6.0/HW45.AssemblyInfo.cs
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/HW45/obj/Debug/net6.0/HW45.csproj.CoreCompileInputs.cache
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/HW45/obj/Debug/net6.0/HW45.dll
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/HW45/obj/Debug/net6.0/refint/HW45.dll
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/HW45/obj/Debug/net6.0/HW45.pdb
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/HW45/obj/Debug/net6.0/HW45.genruntimeconfig.cache
+/Users/berkaykaya/Desktop/CsCourse/KampIntro/KampIntro/HW45/obj/Debug/net6.0/ref/HW45.dll

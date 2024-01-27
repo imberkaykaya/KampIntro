@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{E386880A-B738-419F-84EE-68566A4CF32C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW45", "HW45\HW45.csproj", "{D6D197B2-67A1-4292-89E4-7995692ACD33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{E386880A-B738-419F-84EE-68566A4CF32C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E386880A-B738-419F-84EE-68566A4CF32C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E386880A-B738-419F-84EE-68566A4CF32C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6D197B2-67A1-4292-89E4-7995692ACD33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D197B2-67A1-4292-89E4-7995692ACD33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D197B2-67A1-4292-89E4-7995692ACD33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D197B2-67A1-4292-89E4-7995692ACD33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
